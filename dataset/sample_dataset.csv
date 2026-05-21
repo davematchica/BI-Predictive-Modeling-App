@@ -1,0 +1,81 @@
+student_id,age,gender,study_hours,attendance,previous_score,assignments_completed,parental_education,internet_access,extracurricular,sleep_hours,final_grade,performance
+1,17,Male,5,90,78,95,Bachelor,Yes,Yes,7,82,Pass
+2,16,Female,3,75,65,80,High School,No,No,6,60,Fail
+3,18,Male,7,95,88,100,Master,Yes,Yes,8,91,Pass
+4,17,Female,4,85,72,90,Bachelor,Yes,No,7,75,Pass
+5,16,Male,2,60,55,70,High School,No,No,5,50,Fail
+6,18,Female,6,92,84,98,Master,Yes,Yes,8,88,Pass
+7,17,Male,3,70,62,75,High School,No,Yes,6,58,Fail
+8,16,Female,5,88,76,92,Bachelor,Yes,No,7,79,Pass
+9,18,Male,8,98,92,100,Master,Yes,Yes,9,95,Pass
+10,17,Female,2,65,58,68,High School,No,No,6,52,Fail
+11,17,Male,4,80,70,85,Bachelor,Yes,Yes,7,72,Pass
+12,16,Female,6,91,83,97,Master,Yes,Yes,8,87,Pass
+13,18,Male,3,72,63,78,High School,Yes,No,6,61,Fail
+14,17,Female,5,87,77,93,Bachelor,Yes,Yes,7,80,Pass
+15,16,Male,1,55,48,60,High School,No,No,5,42,Fail
+16,18,Female,7,94,87,99,Master,Yes,Yes,8,90,Pass
+17,17,Male,4,82,71,88,Bachelor,No,Yes,7,73,Pass
+18,16,Female,2,68,59,72,High School,No,No,6,54,Fail
+19,18,Male,6,90,82,96,Master,Yes,Yes,8,85,Pass
+20,17,Female,3,74,64,79,Bachelor,Yes,No,6,62,Fail
+21,17,Male,5,86,75,91,Bachelor,Yes,Yes,7,78,Pass
+22,16,Female,7,93,86,98,Master,Yes,Yes,8,89,Pass
+23,18,Male,2,62,56,67,High School,No,No,5,49,Fail
+24,17,Female,4,83,73,87,Bachelor,Yes,No,7,74,Pass
+25,16,Male,6,91,85,96,Master,Yes,Yes,8,88,Pass
+26,18,Female,3,71,61,76,High School,Yes,No,6,59,Fail
+27,17,Male,5,88,79,94,Bachelor,Yes,Yes,7,82,Pass
+28,16,Female,1,58,49,62,High School,No,No,5,44,Fail
+29,18,Male,7,95,89,100,Master,Yes,Yes,9,92,Pass
+30,17,Female,4,81,70,86,Bachelor,No,Yes,7,71,Pass
+31,17,Male,6,90,83,97,Master,Yes,Yes,8,87,Pass
+32,16,Female,2,66,57,69,High School,No,No,6,51,Fail
+33,18,Male,5,87,78,93,Bachelor,Yes,Yes,7,81,Pass
+34,17,Female,3,73,63,77,High School,Yes,No,6,60,Fail
+35,16,Male,7,94,88,99,Master,Yes,Yes,8,91,Pass
+36,18,Female,4,84,74,89,Bachelor,Yes,No,7,76,Pass
+37,17,Male,2,63,55,66,High School,No,No,5,48,Fail
+38,16,Female,6,92,84,97,Master,Yes,Yes,8,88,Pass
+39,18,Male,3,70,62,74,High School,No,Yes,6,57,Fail
+40,17,Female,5,85,75,90,Bachelor,Yes,Yes,7,78,Pass
+41,17,Male,8,97,91,100,Master,Yes,Yes,9,94,Pass
+42,16,Female,2,64,56,68,High School,No,No,5,50,Fail
+43,18,Male,4,82,72,88,Bachelor,Yes,No,7,74,Pass
+44,17,Female,6,91,85,97,Master,Yes,Yes,8,88,Pass
+45,16,Male,3,72,62,76,High School,Yes,No,6,59,Fail
+46,18,Female,5,87,78,92,Bachelor,Yes,Yes,7,80,Pass
+47,17,Male,1,57,47,61,High School,No,No,5,41,Fail
+48,16,Female,7,95,88,99,Master,Yes,Yes,8,91,Pass
+49,18,Male,4,83,73,88,Bachelor,No,Yes,7,75,Pass
+50,17,Female,2,67,58,70,High School,No,No,6,53,Fail
+51,17,Male,6,90,82,96,Master,Yes,Yes,8,86,Pass
+52,16,Female,3,74,64,80,Bachelor,Yes,No,6,63,Fail
+53,18,Male,5,86,76,91,Bachelor,Yes,Yes,7,79,Pass
+54,17,Female,7,93,87,98,Master,Yes,Yes,8,90,Pass
+55,16,Male,2,61,54,65,High School,No,No,5,47,Fail
+56,18,Female,4,84,75,89,Bachelor,Yes,No,7,77,Pass
+57,17,Male,6,91,83,97,Master,Yes,Yes,8,87,Pass
+58,16,Female,3,70,61,75,High School,No,Yes,6,58,Fail
+59,18,Male,5,88,79,93,Bachelor,Yes,Yes,7,81,Pass
+60,17,Female,1,56,46,59,High School,No,No,5,40,Fail
+61,17,Male,7,94,88,99,Master,Yes,Yes,9,92,Pass
+62,16,Female,4,82,72,87,Bachelor,Yes,No,7,73,Pass
+63,18,Male,2,65,56,68,High School,No,No,5,50,Fail
+64,17,Female,6,90,83,96,Master,Yes,Yes,8,87,Pass
+65,16,Male,3,73,63,78,High School,Yes,No,6,60,Fail
+66,18,Female,5,87,77,92,Bachelor,Yes,Yes,7,80,Pass
+67,17,Male,8,97,92,100,Master,Yes,Yes,9,95,Pass
+68,16,Female,2,64,55,67,High School,No,No,5,49,Fail
+69,18,Male,4,83,74,88,Bachelor,No,Yes,7,74,Pass
+70,17,Female,6,91,84,97,Master,Yes,Yes,8,88,Pass
+71,17,Male,3,71,62,76,High School,Yes,No,6,59,Fail
+72,16,Female,5,87,77,92,Bachelor,Yes,Yes,7,79,Pass
+73,18,Male,7,95,89,100,Master,Yes,Yes,9,93,Pass
+74,17,Female,2,66,57,69,High School,No,No,6,52,Fail
+75,16,Male,4,84,75,90,Bachelor,Yes,No,7,76,Pass
+76,18,Female,6,92,85,97,Master,Yes,Yes,8,89,Pass
+77,17,Male,3,72,62,77,High School,No,Yes,6,59,Fail
+78,16,Female,5,86,76,91,Bachelor,Yes,Yes,7,78,Pass
+79,18,Male,1,55,45,58,High School,No,No,5,39,Fail
+80,17,Female,7,94,88,99,Master,Yes,Yes,8,91,Pass

@@ -1,0 +1,112 @@
+/* assets/styles.css — BI Predictive Modeling App */
+
+/* ─── Global ─────────────────────────────────────────────────── */
+html, body, [class*="css"] {
+    font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ─── Sidebar ─────────────────────────────────────────────────── */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #0F172A 0%, #1E293B 100%);
+    border-right: 1px solid #334155;
+}
+
+[data-testid="stSidebar"] * {
+    color: #E2E8F0 !important;
+}
+
+/* ─── Cards ───────────────────────────────────────────────────── */
+.bi-card {
+    background: #1E293B;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #334155;
+    margin-bottom: 16px;
+}
+
+.bi-card-title {
+    font-size: 13px;
+    color: #94A3B8;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 4px;
+}
+
+.bi-card-value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #F8FAFC;
+}
+
+/* ─── Hero Banner ─────────────────────────────────────────────── */
+.hero-banner {
+    background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 50%, #EC4899 100%);
+    border-radius: 16px;
+    padding: 36px 32px;
+    margin-bottom: 28px;
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 28px;
+    font-weight: 800;
+    color: white;
+    margin: 0 0 8px 0;
+}
+
+.hero-subtitle {
+    font-size: 15px;
+    color: rgba(255,255,255,0.8);
+    margin: 0;
+}
+
+/* ─── Section Headers ──────────────────────────────────────────── */
+.section-header {
+    border-left: 4px solid #4F46E5;
+    padding-left: 12px;
+    margin: 24px 0 16px 0;
+}
+
+/* ─── Badges ──────────────────────────────────────────────────── */
+.badge-pass {
+    background: #065F46;
+    color: #34D399;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.badge-fail {
+    background: #7F1D1D;
+    color: #FCA5A5;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* ─── Metric Highlight ─────────────────────────────────────────── */
+.best-model-banner {
+    background: linear-gradient(90deg, #064E3B, #065F46);
+    border: 1px solid #10B981;
+    border-radius: 10px;
+    padding: 14px 20px;
+    text-align: center;
+    color: #34D399;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 12px 0;
+}
+
+/* ─── Workflow Step ────────────────────────────────────────────── */
+.workflow-step {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #1E293B;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 8px;
+    border-left: 4px solid #4F46E5;
+}
