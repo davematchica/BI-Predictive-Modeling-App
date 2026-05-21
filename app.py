@@ -36,7 +36,7 @@ from utils.visualizations import (
 )
 from utils.helpers import (
     render_workflow_step, show_prediction_result, progress_steps,
-    dataframe_to_csv_bytes, get_numeric_input_widget, get_categorical_input_widget
+    dataframe_to_csv_bytes, get_numeric_input_widget, get_categorical_input_widget, get_input_widget
 )
 
 # ── Page Config ────────────────────────────────────────────────────────────────
@@ -823,10 +823,7 @@ elif page == "🔮 Prediction":
     for chunk in chunks:
         cols = st.columns(num_cols)
         for col, feat in zip(cols, chunk):
-            if df[feat].dtype == object:
-                input_vals[feat] = get_categorical_input_widget(col, feat, df)
-            else:
-                input_vals[feat] = get_numeric_input_widget(col, feat, df)
+            input_vals[feat] = get_input_widget(col, feat, df)
 
     st.markdown("---")
 
